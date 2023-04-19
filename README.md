@@ -11,6 +11,7 @@
 - ⭐ I am great with git and often help team members learn it
 - 💥 I use ChatGPT to accelerate coding
 - 📡 I know multiple human languages and several computer languages/protocals
+- ⌨ I use a programmable keyboard. You can view my layout at <https://configure.zsa.io/ergodox-ez/layouts/DnXa7/latest/0>
 - 👀 See <https://bean5.github.io/> to really learn more about me
 
 ## 🛠 Tech Stack
