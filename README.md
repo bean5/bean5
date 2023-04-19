@@ -1,18 +1,16 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
-## About Me
+# About Me
 - 🏦 I'm a software developer with leadership experience
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **javascript**, **jira**, **bitbucket**, **github**, **linux**, **REST APIs**
+- 💻 I use daily: **javascript**, **jira**, **bitbucket**, **github**, **linux**, **REST APIs**, **programmable keyboard** [View my keyboard layout.](https://configure.zsa.io/ergodox-ez/layouts/DnXa7/latest/0)
 - 🚀 I use a programmable keyboard and many other code tools I have built up over time
 - 💪 I built python scripts to decrease my error rate at copying ticket numbers.
 - ⭐ I am great with git and often help team members learn it
 - 💥 I use ChatGPT to accelerate coding
 - 📡 I know multiple human languages and several computer languages/protocals
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I use a programmable keyboard. You can view my layout at <https://configure.zsa.io/ergodox-ez/layouts/DnXa7/latest/0>
 - 👀 See <https://bean5.github.io/> to really learn more about me
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 This is not an exhaustive list. It started to get so large that I stopped updating this.
 
 <p align="center">
@@ -62,19 +60,18 @@ This is not an exhaustive list. It started to get so large that I stopped updati
 </p>
 
 
-## 📫 How to reach me
-You can reach me at the through my LinkedIn profile. Follow my socials!
+# 📫 How to reach me
+You can reach me at the through my [LinkedIn profile](https://www.linkedin.com/in/michael-bean/). Follow my socials!
 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon height="55".svg" width="55" alt="Follow Michael on LinkedIn" title="Follow Michael on LinkedIn"/>](https://www.linkedin.com/in/michael-bean/)
 <!-- [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon height="55".svg" width="55" alt="Follow Michael on stackoverflow" title="Follow Michael on stackoverflow"/>](https://stackoverflow.com/users/8276765/yedidya-rashi) -->
 
-## 🔭Actions
+# 🔭Actions
 *For publically available projects.
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=bean5&theme=gruvbox_light&layout=compact"/>
 </div>
 
-## <img src="https://www.vectorlogo.zone/logos/languageicon/languageicon-icon.svg" width="25"> Language usage
+# <img src="https://www.vectorlogo.zone/logos/languageicon/languageicon-icon.svg" width="25"> Language usage
 Although interesting, this only includes publicly-available pushes and somehow misses python and javascript. If you see those 2 reflected below, then they fixed their bug.
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=bean5&theme=gruvbox_light&layout=compact"/>
