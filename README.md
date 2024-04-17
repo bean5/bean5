@@ -1,14 +1,14 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
 # About Me
-- 🏦 I'm a software developer with leadership experience
-- 💻 I use daily: **javascript**, **jira**, **bitbucket**, **github**, **linux**, **REST APIs**, **programmable keyboard** [View my keyboard layout.](https://configure.zsa.io/ergodox-ez/layouts/DnXa7/latest/0)
-- 🚀 I use a programmable keyboard and many other code tools I have built up over time
+- 🏦 I am a Senior Software Engineer
+- 💻 I use daily: **code**, **jira**, **bitbucket**, **github**, **linux**, **REST APIs**, **programmable keyboard** [View my keyboard layout.](https://configure.zsa.io/ergodox-ez/layouts/DnXa7/latest/0)
+- 🚀 I have a fleet of scripts and tools I have built up over time
 - 💪 I built python scripts to decrease my error rate at copying ticket numbers.
-- ⭐ I am great with git and often help team members learn it
-- 💥 I use ChatGPT to accelerate coding
-- 📡 I know multiple human languages and several computer languages/protocals
-- 👀 See <https://CanCompute.tech/> to really learn more about me
+- ⭐ I am great with Git and often help team members learn it. [_I am a pleasure to work with._](https://cancompute.tech/testimonials)
+- 💥 I use ChatGPT to innovate and learn
+- 📡 I know multiple human languages and even more computer languages/protocols
+- 👀 See <https://bean5.github.io/> to really learn more about me
 
 # 🛠 Tech Stack
 This is not an exhaustive list. It started to get so large that I stopped updating this.
