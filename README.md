@@ -8,7 +8,7 @@
 - ⭐ I am great with git and often help team members learn it
 - 💥 I use ChatGPT to accelerate coding
 - 📡 I know multiple human languages and several computer languages/protocals
-- 👀 See <https://bean5.github.io/> to really learn more about me
+- 👀 See <https://CanCompute.tech/> to really learn more about me
 
 # 🛠 Tech Stack
 This is not an exhaustive list. It started to get so large that I stopped updating this.
