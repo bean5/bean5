@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-
-# About Me
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> About Me
 - 🏦 I am a Senior Software Engineer
 - 💻 I use daily: **code**, **jira**, **bitbucket**, **github**, **linux**, **REST APIs**, **programmable keyboard** [View my keyboard layout.](https://configure.zsa.io/ergodox-ez/layouts/DnXa7/latest/0)
 - 🚀 I have a fleet of scripts and tools I have built up over time
@@ -10,8 +8,19 @@
 - 📡 I know multiple human languages and even more computer languages/protocols
 - 👀 See <https://bean5.github.io/> to really learn more about me
 
+# 🔭Actions
+Based on publicly available projects.
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=bean5&theme=gruvbox_light&layout=compact"/>
+</div>
+
+
+# 📫 How to reach me
+You can reach me at the through my [LinkedIn profile](https://www.linkedin.com/in/michael-bean/) or [by chat at my website](https://www.cancompute.tech/).
+
 # 🛠 Tech Stack
-This is not an exhaustive list. It started to get so large that I stopped updating this.
+This is not an exhaustive list. Last updated 2021.
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="55" width="55"/>
@@ -59,20 +68,12 @@ This is not an exhaustive list. It started to get so large that I stopped updati
     <!-- <img src="https://www.vectorlogo.zone/logos/zsh/zsh-icon.svg" alt="zsh" height="55" width="55"/> -->
 </p>
 
-
-# 📫 How to reach me
-You can reach me at the through my [LinkedIn profile](https://www.linkedin.com/in/michael-bean/). Follow my socials!
-
 <!-- [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon height="55".svg" width="55" alt="Follow Michael on stackoverflow" title="Follow Michael on stackoverflow"/>](https://stackoverflow.com/users/8276765/yedidya-rashi) -->
 
-# 🔭Actions
-*For publically available projects.
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=bean5&theme=gruvbox_light&layout=compact"/>
-</div>
+# <img src="https://www.vectorlogo.zone/logos/languageicon/languageicon-icon.svg" width="25"> Language usage (updated 2021)
+Based on publicly available projects. Your mileage may vary.
 
-# <img src="https://www.vectorlogo.zone/logos/languageicon/languageicon-icon.svg" width="25"> Language usage
-Although interesting, this only includes publicly-available pushes and somehow misses python and javascript. If you see those 2 reflected below, then they fixed their bug.
+Although interesting, this somehow misses Python and JavaScript. If you see those 2 reflected below, then they fixed their bug. TeX is a fun language, but it is definitely not my main coding language.
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=bean5&theme=gruvbox_light&layout=compact"/>
 </div>
