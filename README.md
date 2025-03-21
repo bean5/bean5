@@ -12,7 +12,7 @@
 
 ⭐ I know multiple human languages and even more computer languages/protocols
 
-👀 See <https://bean5.github.io/> to really learn more about me
+👀 See <https://www.cancompute.tech/> to really learn more about me
 
 # 🔭Actions
 Based on publicly available projects.
