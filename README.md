@@ -23,7 +23,7 @@ Based on publicly available projects.
 
 
 # 📫 How to reach me
-You can reach me at the through my [LinkedIn profile](https://www.linkedin.com/in/michael-bean/) or [by chat at my website](https://www.cancompute.tech/).
+You can reach me at the through my [LinkedIn profile](https://www.linkedin.com/in/michael-bean/).
 
 
 # 🛠 Tech Stack
