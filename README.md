@@ -8,7 +8,7 @@
 
 💻 I use daily: **code**, **jira**, **bitbucket**, **github**, **linux**, **REST APIs**, **programmable keyboard** ([preview Linux layout](https://configure.zsa.io/ergodox-ez/layouts/DnXa7/zJyaa/0))
 
-🚀 I have built an arsenal of scripts and tools including a customized z shell theme 
+🚀 I have built an arsenal of scripts and tools including a customized [z shell theme](https://www.cancompute.tech/portfolio-collections/my-portfolio/zsh-theme)
 
 💪 I am great with Git and often help team members learn it
 
