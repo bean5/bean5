@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> About Me
 
-🏦 I am a Senior Software Engineer and [_fellow engineers are glad to have me on their team_](https://cancompute.tech/testimonials)
+🏦 I am a Staff Software Engineer and [_fellow engineers are glad to have me on their team_](https://cancompute.tech/testimonials)
 
 💻 I use daily: **code**, **jira**, **bitbucket**, **github**, **linux**, **REST APIs**, **programmable keyboard** ([preview Linux layout](https://configure.zsa.io/ergodox-ez/layouts/DnXa7/zJyaa/0))
 
