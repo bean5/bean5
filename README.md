@@ -1,6 +1,6 @@
 # My Website
 
-<https://cancompute.tech>
+<https://CanCompute.tech>
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> About Me
 
